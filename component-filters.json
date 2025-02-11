@@ -1,7 +1,7 @@
 [
   {
     "id": "main",
-    "components": ["section"]
+    "components": ["section", "section-marketing"]
   },
   {
     "id": "main-marketing",
