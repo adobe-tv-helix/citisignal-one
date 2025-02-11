@@ -66,6 +66,42 @@
     ]
   },
   {
+    "id": "section-metadata",
+    "fields": [
+      {
+        "component": "text",
+        "name": "title",
+        "label": "Title"
+      },
+      {
+        "component": "text",
+        "name": "description",
+        "label": "Description"
+      },
+      {
+        "component": "select",
+        "name": "design",
+        "value": "",
+        "label": "Design",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Design TooDooLoo",
+            "value": "design1"
+          },
+          {
+            "name": "Design SoundOff",
+            "value": "design2"
+          },
+          {
+            "name": "Design NoIdea",
+            "value": "design3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "title",
     "fields": [
       {
